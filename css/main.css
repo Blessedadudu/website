@@ -476,7 +476,22 @@ body{
 @media screen and (max-width:768px) {
   .progress_img {
     min-height: 50vh;
-    background:url('../img/contact.jpeg')center fixed no-repeat;
+    background:url('../img/contact.jpeg')center/cover no-repeat;
+  }
+  .progress_value--one {
+    width: 95%;
+  }
+  .progress_value--two {
+    width: 90%;
+  }
+  .progress_value--three {
+    width: 80%;
+  }
+  .progress_value--four {
+    width: 75%;
+  }
+  .progress_value--five {
+    width: 100%;
   }
  }
 /* projects */
