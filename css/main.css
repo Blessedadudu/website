@@ -683,7 +683,13 @@ body{
   .map-item_text {
     color: black;
   }
+
+}
+@media screen and (min-width:768px) {
+  .map-item_text {
+    color: black;
+  }
   .mail {
-    margin-right: 5rem
+    margin-right: 50px
   }
 }
