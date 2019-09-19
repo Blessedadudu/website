@@ -118,7 +118,7 @@ body{
 }
 @media screen and (max-width:768px){
   .header{
-   background: url('../video/Working-it/Snapshots/Working-it.jpg')center/cover fixed no-repeat;
+   background: url('../video/Working-it/Snapshots/Working-it.jpg')center/cover no-repeat;
   }
 }
 
