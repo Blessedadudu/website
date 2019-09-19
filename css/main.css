@@ -3,7 +3,7 @@
 *{
   margin: 0;
   padding: 0;
-  box-sizing: border-box;
+  box-sizing: border-box; 
 }
 
 :root{
@@ -681,6 +681,9 @@ body{
 }
 @media screen and (max-width:768px) {
   .map-item_text {
-    color: black
+    color: black;
+  }
+  .mail {
+    margin-right: 1.5rem
   }
 }
